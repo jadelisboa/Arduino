@@ -1,0 +1,4 @@
+Os primeiros passos para conexão da placa arduino com o notbook:
+1) Depois de instalado, é necessário (em determinados casos), uma senha que somente o instrutor pode colocar.
+2) Após isso, para se ter certeza que a conexão foi bem sucedida, é preciso "plugar" o cabo USB na entrada do arduino e a outra na entrada do seu notbook.
+3) Se a luz do arduino piscar, está pronto.
